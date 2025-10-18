@@ -20,4 +20,4 @@ You can view a live demo of this project here: [Furni Shop](https://mmhosseinzad
 
 ## Author
 
-- [@mmhosseinzadeh9190](https://github.com/mmhosseinzadeh9190)
+- [@rozhnrnjbr](https://github.com/rozhnrnjbr)

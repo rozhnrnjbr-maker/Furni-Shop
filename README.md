@@ -6,11 +6,11 @@ Built purely with semantic HTML5 and meticulously styled CSS3, this project focu
 
 ## Demo
 
-You can view a live demo of this project here: [Furni Shop](https://mmhosseinzadeh9190.github.io/furni-shop/)
+You can view a live demo of this project here: [Furni Shop](https://github.com/rozhnrnjbr-maker/Furni-Shop/)
 
 ## Screenshots
 
-![Furni Shop](https://github.com/mmhosseinzadeh9190/furni-shop/blob/main/furni-shop.png)
+![Furni Shop](https://github.com/rozhnrnjbr-maker/Furni-Shop.png)
 
 ## Tech Stack
 

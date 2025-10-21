@@ -10,7 +10,7 @@ You can view a live demo of this project here: [Furni Shop](https://github.com/r
 
 ## Screenshots
 
-![Furni Shop](https://github.com/rozhnrnjbr-maker/Furni-Shop.png)
+![Furni Shop](assets/screenshot/rozhnrnjbrgithub.png)
 
 ## Tech Stack
 
